@@ -1,0 +1,7 @@
+c:\users\rjkgi\source\repos\Lab4-Power\Lab4-Power\bin\Debug\Lab4-Power.exe.config
+c:\users\rjkgi\source\repos\Lab4-Power\Lab4-Power\bin\Debug\Lab4-Power.exe
+c:\users\rjkgi\source\repos\Lab4-Power\Lab4-Power\bin\Debug\Lab4-Power.pdb
+c:\users\rjkgi\source\repos\Lab4-Power\Lab4-Power\obj\Debug\Lab4-Power.csprojResolveAssemblyReference.cache
+c:\users\rjkgi\source\repos\Lab4-Power\Lab4-Power\obj\Debug\Lab4-Power.csproj.CoreCompileInputs.cache
+c:\users\rjkgi\source\repos\Lab4-Power\Lab4-Power\obj\Debug\Lab4-Power.exe
+c:\users\rjkgi\source\repos\Lab4-Power\Lab4-Power\obj\Debug\Lab4-Power.pdb
