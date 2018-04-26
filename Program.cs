@@ -16,6 +16,10 @@ namespace Lab3_Squared_Cubed
                 Console.WriteLine("Enter an integer:");
 
 
+                //Declare and convert variable 
+                int userInput = Convert.ToInt32(Console.ReadLine());
+
+
                 //Headers
                 string column1 = "Number";
                 Console.Write(column1.PadRight(16, ' '));
@@ -26,8 +30,6 @@ namespace Lab3_Squared_Cubed
                 Console.WriteLine("Cubed");
 
 
-                //Declare and convert variable 
-                int userInput = Convert.ToInt32(Console.ReadLine());
 
                 //Display numbers
                 for (int a = 1; a <= userInput; a++)
